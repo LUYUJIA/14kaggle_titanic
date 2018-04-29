@@ -1,4 +1,5 @@
-# kaggle 
+# kaggle
+- https://www.kaggle.com/c/titanic/leaderboard
 ## 目的
 - kaggleのやり方を覚える
 - 処理のフレームワークを作る
