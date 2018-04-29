@@ -22,6 +22,7 @@ kaggle competitions submit -c titanic -f submission.csv -m "test"
 - pandas,sklearnによる前処理はカンペ形式にする（覚えるの(ヾﾉ･∀･`)ﾑﾘﾑﾘ）
 - keras使ったほうがいい感が凄い
 - TensorFlowのドキュメントがよくわからない
+- http://nbviewer.jupyter.org/github/dialectic4th/14kaggle_titanic/blob/master/2analyze.ipynb
 
 ## 参考
 - [TensorFlow回答例](https://www.kaggle.com/linxinzhe/tensorflow-deep-learning-to-solve-titanic)
