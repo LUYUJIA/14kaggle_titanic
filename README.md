@@ -3,25 +3,20 @@
 - kaggleのやり方を覚える
 - 処理のフレームワークを作る
 - TensorFlowで、DeepLearningする
-## kaggle API
-#### [kaggleAPI導入](http://www.currypurin.com/entry/2018/kaggle-api)
-  - pip3インストール
-  - tokenを入手
-  
-#### ダウンロード
-```
-kaggle competitions download -c titanic
-```
 
-#### コミット
+## [kaggleAPI導入](http://www.currypurin.com/entry/2018/kaggle-api)
+- pip3インストール
+- tokenを入手
+  
 ```
+#ダウンロード
+kaggle competitions download -c titanic
+
+#コミット
 kaggle competitions submit -c titanic -f submission.csv -m "test"
 ```
 
 
-## 処理
-- 前処理
-- DeepLearning
 
 ## 感想
 - pandas,sklearnによる前処理はカンペ形式にする（覚えるの(ヾﾉ･∀･`)ﾑﾘﾑﾘ）
