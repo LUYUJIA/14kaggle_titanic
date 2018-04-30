@@ -4,7 +4,7 @@
 - kaggleのやり方を覚える
 - 処理のフレームワークを作る
 - TensorFlowで、DeepLearningする
-- 決定木系統を復習する
+- 決定木系統を復習する[決定木勉強まとめ](https://github.com/dialectic4th/06desition_tree_system)
 
 ## [kaggleAPI導入](http://www.currypurin.com/entry/2018/kaggle-api)
 - pip3インストール
