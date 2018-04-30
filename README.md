@@ -1,9 +1,10 @@
-# kaggle
+# kaggle_titanic
 - https://www.kaggle.com/c/titanic/leaderboard
 ## 目的
 - kaggleのやり方を覚える
 - 処理のフレームワークを作る
 - TensorFlowで、DeepLearningする
+- 決定木系統を復習する
 
 ## [kaggleAPI導入](http://www.currypurin.com/entry/2018/kaggle-api)
 - pip3インストール
@@ -23,7 +24,7 @@ kaggle competitions submit -c titanic -f submission.csv -m "test"
 - pandas,sklearnによる前処理はカンペ形式にする（覚えるの(ヾﾉ･∀･`)ﾑﾘﾑﾘ）
 - keras使ったほうがいい感が凄い
 - TensorFlowのドキュメントがよくわからない
-- http://nbviewer.jupyter.org/github/dialectic4th/14kaggle_titanic/blob/master/2analyze.ipynb
+- データ数の問題で、学習と評価への分け方次第で学習が決まってしまっている
 
 ## 参考
 - [TensorFlow回答例](https://www.kaggle.com/linxinzhe/tensorflow-deep-learning-to-solve-titanic)
