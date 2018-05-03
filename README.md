@@ -1,5 +1,9 @@
-# kaggle_titanic
-- https://www.kaggle.com/c/titanic/leaderboard
+# kaggle
+- データから予測を行い精度を競い合う
+  - expert:ブロンズ２個(上位１０％)
+  - master:ゴールド１回（トップ１０）、シルバー2回（上位5%）
+- [kaggleとは](http://www.currypurin.com/entry/2018/02/21/011316)
+- [DeNAのkaggle制度](https://dena.ai/kaggle/)
 ## 目的
 - kaggleのやり方を覚える
 - 処理のフレームワークを作る
@@ -21,6 +25,7 @@ kaggle competitions submit -c titanic -f submission.csv -m "test"
 
 
 ## 感想
+- [Titanic](https://www.kaggle.com/c/titanic/leaderboard)
 - pandas,sklearnによる前処理はカンペ形式にする（覚えるの(ヾﾉ･∀･`)ﾑﾘﾑﾘ）
 - keras使ったほうがいい感が凄い
 - TensorFlowのドキュメントがよくわからない
