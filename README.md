@@ -41,6 +41,7 @@ kaggle competitions submit -c titanic -f submission.csv -m "test"
 
 ## 特徴量エンジニアリング　
 - [特徴量エンジニアリングまとめ](http://kamonohashiperry.com/archives/1054) 
+- [テクニックまとめ](https://github.com/nejumi/kaggle_memo)
 
 ## kaggleコンテンツ
 - [kaggleブログ](http://www.currypurin.com/)
