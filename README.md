@@ -4,6 +4,7 @@
   - master:ゴールド１回（トップ１０）、シルバー2回（上位5%）
 - [kaggleとは](http://www.currypurin.com/entry/2018/02/21/011316)
 - [DeNAのkaggle制度](https://dena.ai/kaggle/)
+- [kaggleの意義](https://www.slideshare.net/HaradaKei/devsumi-2018summer)
 ## 目的
 - kaggleのやり方を覚える
 - 処理のフレームワークを作る
@@ -37,3 +38,10 @@ kaggle competitions submit -c titanic -f submission.csv -m "test"
 - [sklearn_preprocess](http://own-search-and-study.xyz/2016/11/23/sklearn%E3%81%AEpreprocessing%E3%81%AE%E5%85%A8%E3%83%A1%E3%82%BD%E3%83%83%E3%83%89%E3%82%92%E8%A7%A3%E8%AA%AC/)
 - [pandas](https://qiita.com/tanemaki/items/2ed05e258ef4c9e6caac#各種統計量)
 - [kaggle回答例](http://www.mirandora.com/?p=1804)
+
+
+## kaggle資料
+- [kaggleブログ](http://www.currypurin.com/)
+- [kaggle Slack](https://kaggler-ja.slack.com/messages/C0M91A5FX/)
+- [Coseraのkaggle講座](https://www.coursera.org/learn/competitive-data-science)
+- [Proto kagglerの解法](https://employment.en-japan.com/engineerhub/entry/2018/08/24/110000)
