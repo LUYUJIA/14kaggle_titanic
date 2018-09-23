@@ -4,7 +4,7 @@
   - master:ゴールド１回（トップ１０）、シルバー2回（上位5%）
 - [kaggleとは](http://www.currypurin.com/entry/2018/02/21/011316)
 - [DeNAのkaggle制度](https://dena.ai/kaggle/)
-- [kaggleの意義](https://www.slideshare.net/HaradaKei/devsumi-2018summer)
+- [kaggleをやる意義](https://www.slideshare.net/HaradaKei/devsumi-2018summer)
 ## 目的
 - kaggleのやり方を覚える
 - 処理のフレームワークを作る
