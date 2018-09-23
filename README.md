@@ -39,9 +39,17 @@ kaggle competitions submit -c titanic -f submission.csv -m "test"
 - [pandas](https://qiita.com/tanemaki/items/2ed05e258ef4c9e6caac#各種統計量)
 - [kaggle回答例](http://www.mirandora.com/?p=1804)
 
+## 特徴量エンジニアリング　
+- [特徴量エンジニアリングまとめ](http://kamonohashiperry.com/archives/1054) 
 
-## kaggle資料
+## kaggleコンテンツ
 - [kaggleブログ](http://www.currypurin.com/)
 - [kaggle Slack](https://kaggler-ja.slack.com/messages/C0M91A5FX/)
 - [Coseraのkaggle講座](https://www.coursera.org/learn/competitive-data-science)
+- kaggler　Youtube
+
+## コラム
 - [Proto kagglerの解法](https://employment.en-japan.com/engineerhub/entry/2018/08/24/110000)
+- [onodera san](https://japan.zdnet.com/article/35124706/2/)
+- [catboost,ベイズ最適化](http://www.mirandora.com/?p=2505#menu2)
+- [何故Gini係数を重要度に用いるのか](http://socinuit.hatenablog.com/entry/2018/08/23/201357)
