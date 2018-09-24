@@ -49,6 +49,15 @@ kaggle competitions submit -c titanic -f submission.csv -m "test"
 - [Coseraのkaggle講座](https://www.coursera.org/learn/competitive-data-science)
 - kaggler　Youtube
 
+## その他特徴量エンジニアリング　
+- https://qiita.com/rockhopper/items/a68ceb3248f2b3a41c89
+- http://datanerd.hateblo.jp/entry/2017/09/12/183203
+- https://aotamasaki.hatenablog.com/entry/2018/04/18/201127
+- https://qiita.com/tackey/items/1db9eb7b375d344bcab9
+- https://www.datarobot.com/jp/wiki/feature/
+- https://futurismo.biz/archives/6766/
+- https://upura.hatenablog.com/entry/2018/09/18/194719
+
 ## コラム
 - [Proto kagglerの解法](https://employment.en-japan.com/engineerhub/entry/2018/08/24/110000)
 - [onodera san](https://japan.zdnet.com/article/35124706/2/)
