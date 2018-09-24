@@ -54,3 +54,6 @@ kaggle competitions submit -c titanic -f submission.csv -m "test"
 - [onodera san](https://japan.zdnet.com/article/35124706/2/)
 - [catboost,ベイズ最適化](http://www.mirandora.com/?p=2505#menu2)
 - [何故Gini係数を重要度に用いるのか](http://socinuit.hatenablog.com/entry/2018/08/23/201357)
+- [ROC,AUC](http://www.randpy.tokyo/entry/roc_auc)
+## コラム、
+## コラム
